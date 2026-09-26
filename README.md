@@ -25,7 +25,7 @@ The table below records only work genuinely completed by group members.
 | Sep. 25, 2026 | Aashika Gharti – MIT250470 | **Dataset and preprocessing:** Reviewed the dataset source and data dictionary. Checked missing values, duplicates, invalid values and hourly reindexing. Reviewed Sections 1–3. | `Review dataset documentation and preprocessing` | Roma Sah |
 | Sep. 26, 2026 | Roma Sah – MIT251869 | **Exploratory data analysis:** Checked the summary statistics, boxplots, histogram, daily trends and Paris hourly and weekday results. Reviewed Section 4. | `Review EDA charts and findings` | Aashika Gharti |
 | Sep. 21, 2026 | Roma Sah – MIT251869 | **Modelling and evaluation:** Checked feature creation, chronological splitting, Linear Regression, Random Forest, persistence baseline and evaluation metrics. Reviewed Sections 5–7. | `Verify model scores and recommendations` | Aashika Gharti |
-| Sep. 26, 2026 | Roma Sah – MIT251869 | **Final review:** Ran the notebook from beginning to end, checked the outputs and reviewed the final report before submission. | `Final notebook and report checked for submission` | Roma Sah and Aashika Gharti |
+| Sep. 26, 2026 | Roma Sah – MIT251869 & Aashika Gharti – MIT250470 | **Final review:** Ran the notebook from beginning to end, checked the outputs and reviewed the final report before submission. | `Final notebook and report checked for submission` | Roma Sah and Aashika Gharti |
 
 ## How to run the notebook
 
