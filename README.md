@@ -37,8 +37,9 @@ The table below records only work genuinely completed by group members.
 
 ## Collaboration evidence
 
-The GitHub commit history records the available file updates, contributors, dates and commit messages. The notebook and report also contain the collaboration record and AI usage declaration.
+The GitHub commit history records the genuine contributions and reviews completed by each group member.
 
-## Repository link
+**Repository link:**  
+https://github.com/romasah62414/204_Spyder_BDA112_Ass2
 
-https://github.com/romasah62414/BDA112-Assignment-2-Air-Quality
+
